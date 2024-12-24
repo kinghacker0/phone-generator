@@ -1,6 +1,3 @@
-# Phone-generator
-Quickly generate possible phone numbers list from the masked phone number for information gathering.
-
 # PhoneNoGenerator
 
 PhoneNoGenerator is a Python tool that generates all possible phone numbers from a given masked phone number format. The program replaces all 'X' characters in the input with digits (0-9) and outputs the resulting numbers to a file. It also includes a colorful ASCII banner and command-line arguments for easy usage.
