@@ -27,6 +27,12 @@ To use the tool, you need Python 3 and the following dependencies:
     ```bash
     pip install termcolor
     ```
+2. **Clone Repo**:
+   
+    ```bash
+    git clone https://github.com/kinghacker0/phone-generator
+    ```
+
 
 ## Usage
 
